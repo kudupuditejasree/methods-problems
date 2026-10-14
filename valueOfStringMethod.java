@@ -1,6 +1,6 @@
 public class valueOfStringMethod {
     public static void main(String[] args) {
-        int num=5;
+        int num=5;//valueOf is static method
         float f=67.9f;
         String strnum=String.valueOf(num);
         String strf=String.valueOf(f);
